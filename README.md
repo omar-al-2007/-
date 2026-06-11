@@ -31,10 +31,10 @@ An **Information Security & Networks** student and **Tech Content Creator** dedi
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/_omar_al_2007?igsh=MXQ4am9paTliZmY5eQ==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/" target="_blank">
+  <a href="https://discord.gg/jMeGtxwkRr" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
